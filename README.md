@@ -34,19 +34,6 @@ Bu projede aşağıdaki teknolojiler kullanılmıştır:
   - Proteus 8.13 (Simülasyon)
   - C++ programlama dili
 
-## ⚙️ Kurulum
-
-1. Proteus 8.13'ü yükleyin
-2. Arduino IDE 2.3.2'yi yükleyin
-3. Gerekli kütüphaneleri Arduino IDE'ye ekleyin:
-   ```bash
-   LiquidCrystal_I2C
-   ```
-4. Arduino Mega 2560 V2 kütüphanesini The Engineering Projects'ten indirin ve Proteus'a ekleyin
-5. Proteus devre şemasını açın
-6. Arduino kodunu derleyin ve yükleyin
-7. Simülasyonu başlatın
-
 ## 📸 Devre Şeması
 
 ![Ekran görüntüsü 2025-04-24 151342](https://github.com/user-attachments/assets/c093c1a0-1833-4289-8a83-2b2929f6e353)
